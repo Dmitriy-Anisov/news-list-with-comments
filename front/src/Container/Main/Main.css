@@ -1,0 +1,24 @@
+.container{
+    max-width: 1000px;
+    margin: 30px auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.btn{
+    background: white;
+    color: darkblue;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    font-size: 20px;
+    outline: none;
+}
+.btn:hover{
+    background: darkblue;
+    color: white;
+}

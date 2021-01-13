@@ -1,0 +1,7 @@
+.full-post{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
